@@ -1,4 +1,4 @@
-#the name of my project
+# The Solar System
 
-blblablacar
+A simple simulation of the orbit of two objets with 5 post-newtonians effects
 
